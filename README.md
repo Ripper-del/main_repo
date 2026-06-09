@@ -39,16 +39,27 @@ I'm a **Computer Engineering student** at KPI and a backend developer passionate
 *   **[Event Booking API](https://github.com/Ripper-del/fastapi-event-booking)** — High-performance event booking backend with clean architecture.
 
 ---
-## 📊 Profile
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ripper-del&label=Profile%20views&color=blueviolet&style=flat-square" alt="views" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20AI-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=flat-square" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ripper-del&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ripper-del&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Ripper-del?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Ripper-del?label=Stars&style=social" alt="Stars" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ripper-del/frizura">
+    <img src="https://img.shields.io/github/last-commit/Ripper-del/frizura?style=flat-square&label=Frizura%20last%20commit" alt="Frizura activity" />
+  </a>
+</p>
+
 ## 📫 How to reach me
-*   **Telegram:** [@Ripper_00](https://t.me/Ripper_00)
-*   **Email:** plesu933@gmail.com
+*   Telegram: [@Ripper_00](https://t.me/Ripper_00)
+*   Email: plesu933@gmail.com
 
 ---
 <p align="center"><i>Building the future, one API at a time.</i></p>
