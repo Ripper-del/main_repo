@@ -41,11 +41,22 @@ I'm a **Computer Engineering student** at KPI and a backend developer passionate
 ---
 
 ## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ripper-del&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ripper-del&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ripper-del&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ripper-del&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Ripper-del?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Ripper-del?label=Stars&style=social" alt="Stars" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ripper-del/frizura">
+    <img src="https://img.shields.io/github/last-commit/Ripper-del/frizura?style=flat-square&label=Frizura%20last%20commit" alt="Frizura activity" />
+  </a>
+</p>
 ---
 
 ## 📫 How to reach me
