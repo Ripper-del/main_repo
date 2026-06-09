@@ -1,98 +1,56 @@
-# Andrey 
+<h1 align="center">Hi, I'm Andrew Pleshu! 👋</h1>
 
-Backend / Fullstack Developer
+<h3 align="center">Backend & AI-Automation Developer</h3>
 
----
-
-## Stack
-
-Backend: Node.js (Express, NestJS), Python (FastAPI, Django)
-Frontend: Next.js, React
-Databases: MySQL, PostgreSQL, MongoDB
-DevOps: Docker, Linux, Nginx, CI/CD (basic)
-Other: REST API, Auth (JWT), RBAC, AI integrations
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ---
 
-## Projects
+## 🚀 About Me
+I'm a **Computer Engineering student** at KPI and a backend developer passionate about building **AI-driven solutions** and **automation systems**. My focus is on creating clean, scalable architectures and integrating LLMs into real-world applications.
 
-### [Frizura](https://github.com/Ripper-del/frizura.git)
-
-Оrchestrator for AI and local LLM
-
-### [Deadline Tracker Bot](https://github.com/Ripper-del/deadline-tracker-bot)
-
-Telegram bot for tracking deadlines
-
-* Notifications
-* Automation
-
-### QA Platform
-
-Fullstack Q&A system
-
-* [Frontend (Next.js)](https://github.com/Ripper-del/nextjs-qa-platform)
-* [Backend (NestJS)](https://github.com/Ripper-del/nestjs-qa-platform)
+*   🔭 Currently building: **AI Orchestration systems** & **Voice-to-AI agents**.
+*   💬 Ask me about: **FastAPI, System Design, Prompt Engineering, and Linux/Docker**.
+*   ⚡ Fun fact: I believe that every manual task should be automated by a script or an AI agent.
 
 ---
 
-### [FastAPI Event Booking](https://github.com/Ripper-del/fastapi-event-booking)
-
-Event booking backend
-
-* FastAPI
-* Clean API design
-
-### [NodeJS Bookshop Ecommerce](https://github.com/Ripper-del/nodejs-bookshop-ecommerce)
-
-Backend for ecommerce system
-
-* Authentication
-* Products / Orders
-* REST API
-
-### [Emotion Detection API](https://github.com/Ripper-del/emotion-detection-api)
-
-Emotion recognition service
-
-* Python API
-* ML integration
-
-### [Django Course Assessment](https://github.com/Ripper-del/django-course-assessment)
-
-Course evaluation platform
-
-* Backend logic
-* Data processing
-
-### [Form Management System](https://github.com/Ripper-del/form-management-system)
-
-Java-based system for managing surveys and forms
-
-* Layered architecture
-* CRUD operations
-
-### [Babelfish Voice AI](https://github.com/Ripper-del/babelfish-voice-ai)
-
-Voice AI interaction system
-
-* Audio processing
-* AI integration
+## 🛠 Tech Stack
+| Category | Technologies |
+| :--- | :--- |
+| **Backend** | Python (FastAPI, Django), Node.js (NestJS, Express) |
+| **Frontend** | React, Next.js |
+| **Databases** | PostgreSQL, MySQL, MongoDB |
+| **Infrastructure**| Linux, Docker, Nginx, CI/CD |
+| **AI/Tools** | LLM Integration, Prompt Engineering, Playwright |
 
 ---
 
-## AI / Automation (in progress)
-
-* Prompt engineering for development tasks
-* AI usage in backend workflows
-* Automation of routine processes
-
-(Repositories coming soon)
+## 🌟 Featured Projects
+*   **[Frizura](https://github.com/Ripper-del/frizura)** — Orchestrator for AI and local LLM interaction.
+*   **[Babelfish Voice AI](https://github.com/Ripper-del/babelfish-voice-ai)** — Advanced voice processing and AI interaction system.
+*   **[QA Platform](https://github.com/Ripper-del/nestjs-qa-platform)** — Fullstack Q&A system built with NestJS & Next.js.
+*   **[Event Booking API](https://github.com/Ripper-del/fastapi-event-booking)** — High-performance event booking backend with clean architecture.
 
 ---
 
-## Contacts
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ripper-del&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ripper-del&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-Telegram: @Ripper_00
+---
 
-Email: plesu933@gmail.com
+## 📫 How to reach me
+*   **Telegram:** [@Ripper_00](https://t.me/Ripper_00)
+*   **Email:** plesu933@gmail.com
+
+---
+<p align="center"><i>Building the future, one API at a time.</i></p>
