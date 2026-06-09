@@ -16,12 +16,9 @@ Other: REST API, Auth (JWT), RBAC, AI integrations
 
 ## Projects
 
-### [Facebook Ad Scraper](https://github.com/Ripper-del/facebook-ad-scraper)
+### [Frizura](https://github.com/Ripper-del/frizura.git)
 
-Ad scraping tool
-
-* Python
-* Data extraction / automation
+Оrchestrator for AI and local LLM
 
 ### [Deadline Tracker Bot](https://github.com/Ripper-del/deadline-tracker-bot)
 
